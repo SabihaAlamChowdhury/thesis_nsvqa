@@ -1,0 +1,47 @@
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf25_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf25_alpha05_k1.json
+True positive: 77632
+False positive: 19809
+False negative: 19726
+Accuracy: 79.74
+Precision: 79.67
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf50_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf50_alpha05_k1.json
+True positive: 75803
+False positive: 20515
+False negative: 21555
+Accuracy: 77.86
+Precision: 78.70
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf25_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf25_alpha05_k1.json
+True positive: 94580
+False positive: 3128
+False negative: 2778
+Accuracy: 97.15
+Precision: 96.80
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf50_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf50_alpha05_k1.json
+True positive: 93855
+False positive: 2736
+False negative: 3503
+Accuracy: 96.40
+Precision: 97.17
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf25_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf25_alpha05_k1.json
+True positive: 96763
+False positive: 821
+False negative: 595
+Accuracy: 99.39
+Precision: 99.16
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf50_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf50_alpha05_k1.json
+True positive: 96483
+False positive: 574
+False negative: 875
+Accuracy: 99.10
+Precision: 99.41

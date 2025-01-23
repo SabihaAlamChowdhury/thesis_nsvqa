@@ -1,0 +1,240 @@
+Command line arguments: Namespace(input='results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch25_conf25.json')
+Evaluation results for results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch25_conf25.json
+True positive: 69332
+False positive: 13438
+False negative: 28026
+Accuracy: 71.21
+Precision: 83.76
+Size incorrect: 12
+Shape incorrect: 318
+Material incorrect: 138
+Color incorrect: 13097
+Single error: 13283
+Double error: 138
+Triple error: 2
+Quadruple error: 0
+
+Command line arguments: Namespace(input='results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch25_conf50.json')
+Evaluation results for results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch25_conf50.json
+True positive: 43224
+False positive: 1259
+False negative: 54134
+Accuracy: 44.40
+Precision: 97.17
+Size incorrect: 0
+Shape incorrect: 106
+Material incorrect: 5
+Color incorrect: 1149
+Single error: 1248
+Double error: 6
+Triple error: 0
+Quadruple error: 0
+
+Command line arguments: Namespace(input='results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch50_conf25.json')
+Evaluation results for results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch50_conf25.json
+True positive: 93840
+False positive: 1651
+False negative: 3518
+Accuracy: 96.39
+Precision: 98.27
+Size incorrect: 2
+Shape incorrect: 262
+Material incorrect: 205
+Color incorrect: 1201
+Single error: 1477
+Double error: 95
+Triple error: 1
+Quadruple error: 0
+
+Command line arguments: Namespace(input='results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch50_conf50.json')
+Evaluation results for results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch50_conf50.json
+True positive: 86712
+False positive: 630
+False negative: 10646
+Accuracy: 89.07
+Precision: 99.28
+Size incorrect: 0
+Shape incorrect: 100
+Material incorrect: 74
+Color incorrect: 451
+Single error: 577
+Double error: 24
+Triple error: 0
+Quadruple error: 0
+
+Command line arguments: Namespace(input='results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch200_conf25.json')
+Evaluation results for results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch200_conf25.json
+True positive: 96578
+False positive: 407
+False negative: 780
+Accuracy: 99.20
+Precision: 99.58
+Size incorrect: 4
+Shape incorrect: 80
+Material incorrect: 96
+Color incorrect: 92
+Single error: 250
+Double error: 11
+Triple error: 0
+Quadruple error: 0
+
+Command line arguments: Namespace(input='results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch200_conf50.json')
+Evaluation results for results/scene_encodings_det_softmax/scene_encoding_det_softmax_epoch200_conf50.json
+True positive: 95442
+False positive: 176
+False negative: 1916
+Accuracy: 98.03
+Precision: 99.82
+Size incorrect: 1
+Shape incorrect: 40
+Material incorrect: 30
+Color incorrect: 45
+Single error: 114
+Double error: 1
+Triple error: 0
+Quadruple error: 0
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf25_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf25_alpha05_k1.json
+True positive: 77632
+False positive: 19809
+False negative: 19726
+Accuracy: 79.74
+Precision: 79.67
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf25_alpha15_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf25_alpha15_k1.json
+True positive: 89225
+False positive: 8216
+False negative: 8133
+Accuracy: 91.65
+Precision: 91.57
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf25_alpha25_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf25_alpha25_k1.json
+True positive: 96908
+False positive: 533
+False negative: 450
+Accuracy: 99.54
+Precision: 99.45
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf50_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf50_alpha05_k1.json
+True positive: 75803
+False positive: 20515
+False negative: 21555
+Accuracy: 77.86
+Precision: 78.70
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf50_alpha15_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf50_alpha15_k1.json
+True positive: 87652
+False positive: 8666
+False negative: 9706
+Accuracy: 90.03
+Precision: 91.00
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf50_alpha25_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch25_conf50_alpha25_k1.json
+True positive: 96031
+False positive: 287
+False negative: 1327
+Accuracy: 98.64
+Precision: 99.70
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf25_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf25_alpha05_k1.json
+True positive: 94580
+False positive: 3128
+False negative: 2778
+Accuracy: 97.15
+Precision: 96.80
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf25_alpha15_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf25_alpha15_k1.json
+True positive: 94594
+False positive: 3114
+False negative: 2764
+Accuracy: 97.16
+Precision: 96.81
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf25_alpha25_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf25_alpha25_k1.json
+True positive: 94755
+False positive: 2953
+False negative: 2603
+Accuracy: 97.33
+Precision: 96.98
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf50_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf50_alpha05_k1.json
+True positive: 93855
+False positive: 2736
+False negative: 3503
+Accuracy: 96.40
+Precision: 97.17
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf50_alpha15_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf50_alpha15_k1.json
+True positive: 93865
+False positive: 2726
+False negative: 3493
+Accuracy: 96.41
+Precision: 97.18
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf50_alpha25_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch50_conf50_alpha25_k1.json
+True positive: 93970
+False positive: 2621
+False negative: 3388
+Accuracy: 96.52
+Precision: 97.29
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf25_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf25_alpha05_k1.json
+True positive: 96763
+False positive: 821
+False negative: 595
+Accuracy: 99.39
+Precision: 99.16
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf25_alpha15_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf25_alpha15_k1.json
+True positive: 96763
+False positive: 821
+False negative: 595
+Accuracy: 99.39
+Precision: 99.16
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf25_alpha25_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf25_alpha25_k1.json
+True positive: 96763
+False positive: 821
+False negative: 595
+Accuracy: 99.39
+Precision: 99.16
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf50_alpha05_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf50_alpha05_k1.json
+True positive: 96483
+False positive: 574
+False negative: 875
+Accuracy: 99.10
+Precision: 99.41
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf50_alpha15_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf50_alpha15_k1.json
+True positive: 96483
+False positive: 574
+False negative: 875
+Accuracy: 99.10
+Precision: 99.41
+
+Command line arguments: Namespace(input='results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf50_alpha25_k1.json')
+Evaluation results for results/scene_encodings_nondet_k1/scene_encoding_nondet_epoch200_conf50_alpha25_k1.json
+True positive: 96483
+False positive: 574
+False negative: 875
+Accuracy: 99.10
+Precision: 99.41
+
